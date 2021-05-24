@@ -1,0 +1,54 @@
+
+body {
+	margin: 0;
+	
+}
+*{
+	box-sizing: border-box;
+}
+
+#header {
+	width: 98,5vw;
+	height: ;
+	background-color: lightblue;
+	border: 2px solid black;
+	
+	
+}
+#main {
+	width: 98,5vw;
+	height: ;
+	background-color: white;
+	border: 2px solid black;
+
+}
+.Arriba {
+	border: 5px solid lightblue;
+	display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+.Intro{
+	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: space-around;
+}
+h1 {
+	color: grey;
+	text-align: center;
+	font-family: "Times New Roman"
+}
+h4 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+	font-weight: bold;
+}
+a {
+	background:red;
+}
